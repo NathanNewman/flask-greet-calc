@@ -1,5 +1,3 @@
-"""Basic math operations."""
-
 def add(a, b):
     """Add a and b."""
     
